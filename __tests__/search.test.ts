@@ -1,4 +1,4 @@
-import searchFn from "./searchFn";
+import searchFn from "../src/searchFn";
 
 describe("TEST", () => {
   test("should return invalid date, 13th month is specified.", () => {
